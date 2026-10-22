@@ -1,0 +1,13 @@
+MEU CONTROLE — PACOTE PARA PUBLICAÇÃO
+
+Arquivos: index.html, manifest.webmanifest, sw.js e icon.svg.
+
+Como publicar no GitHub Pages:
+1. Crie um repositório público chamado meu-controle.
+2. Envie estes quatro arquivos para a raiz do repositório (não envie o ZIP fechado).
+3. Em Settings > Pages, em Build and deployment, selecione Deploy from a branch.
+4. Selecione a branch main e a pasta /(root), depois Save.
+5. Aguarde a publicação e abra o endereço indicado pelo GitHub.
+6. No iPhone, abra esse endereço no Safari e use Compartilhar > Adicionar à Tela de Início.
+
+IMPORTANTE: os registros ficam no armazenamento local do navegador/aparelho. Faça backups regularmente na área de Dados do aplicativo. Não limpe os dados do Safari sem antes exportar um backup. A instalação offline depende de abrir o app publicado pelo menos uma vez com internet.

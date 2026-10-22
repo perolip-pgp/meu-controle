@@ -1,0 +1,18 @@
+{
+  "name": "Meu Controle",
+  "short_name": "Meu Controle",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#111c35",
+  "description": "Organizador pessoal de finanças, tarefas e compromissos",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
